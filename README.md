@@ -1,1 +1,1 @@
-# bayesian-dnt
+# Bayesian modelling of developmental neurotoxicity
