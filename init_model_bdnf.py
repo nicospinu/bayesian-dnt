@@ -141,7 +141,7 @@ Proposal of a parametric model: Bernoulli and linear regression
 
 $$
 BDNF \sim Bernoulli (p_i)\\
-logit(p_i) = \alpha + \beta_1 x_1 + \beta_2 x_2 \\ 
+logit(p_i) = \alpha + \beta_0 x_1 + \beta_1 x_2 \\ 
 \alpha \sim Normal(0, 1) \\
 \beta_0 \sim Normal (0, 1) \\
 \beta_1 \sim Normal (0, 1) \\
