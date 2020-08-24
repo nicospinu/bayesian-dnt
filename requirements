@@ -1,0 +1,11 @@
+pandas
+numpy
+patsy
+scipy
+sklearn.preprocessing
+matplotlib.pyplot
+seaborn
+theano
+theano.tensor
+arviz
+pymc3
