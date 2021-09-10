@@ -1,0 +1,89 @@
+Chemical name,CAS RN,post_pred_bdnf,post_pred_syn,post_pred_nnf,post_pred_dnt
+1-2-Propyleneglycol,57-55-6,0.5,0.49,0.43,0.48
+5-Fluorouracil,51-21-8,0.5,0.69,0.68,0.79
+Acetaminophen,103-90-2,0.5,0.5,0.43,0.5
+Acetamiprid,135410-20-7,0.5,0.56,0.54,0.66
+Acrylamide,79-06-1,0.5,0.57,0.6,0.7
+Aldicarb,116-06-3,0.5,0.59,0.6,0.73
+Aminonicotinamide,329-89-5,0.5,0.56,0.56,0.67
+Amoxicillin,26787-78-0,0.51,0.4,0.36,0.27
+Bis(tri-n-butylin) oxide,56-35-9,0.5,0.62,0.61,0.75
+Bis1,133052-90-1,0.5,0.67,0.67,0.87
+Bisphenol A,80-05-7,0.5,0.7,0.71,0.87
+Cadmium chloride hydrate,7790-78-5,0.5,0.63,0.61,0.75
+Caffeine,58-08-2,0.5,0.55,0.54,0.64
+Captopril,62571-86-2,0.5,0.5,0.5,0.54
+Carbamazepine,298-46-4,0.5,0.56,0.54,0.65
+Carbaryl,63-25-2,0.5,0.59,0.59,0.73
+Chloramben,133-90-4,0.5,0.42,0.38,0.31
+Chlordiazepoxide hydrochloride,438-41-5,0.5,0.62,0.62,0.78
+Chlorpromazine,50-53-3,0.5,0.68,0.69,0.9
+Chlorpyrifos,2921-88-2,0.5,0.72,0.73,0.93
+Chlorpyrifos oxon,5598-15-2,0.5,0.67,0.67,0.88
+Cocaine base,50-36-2 ,0.51,0.56,0.54,0.64
+Colchicine,64-86-8,0.5,0.65,0.63,0.82
+Cotinine,486-56-6,0.5,0.53,0.52,0.61
+Cyclophosphamide monohydrate,6055-19-2,0.5,0.59,0.6,0.72
+Cypermethrin,52315-07-8,0.5,0.61,0.62,0.77
+Cytosine arabinoside,147-94-4,0.5,0.54,0.52,0.62
+d-Amphetamine sulfate,51-63-8,0.51,0.57,0.54,0.67
+D-Sorbitol,50-70-4,0.5,0.43,0.44,0.34
+DEHP,117-81-7,0.5,0.68,0.68,0.88
+Deltamethrin,52918-63-5,0.5,0.63,0.64,0.81
+Dexamethasone,50-02-2,0.5,0.56,0.55,0.66
+Diazepam,439-14-5,0.5,0.53,0.55,0.64
+Dieldrin,60-57-1,0.5,0.64,0.65,0.83
+Diethylene glycol,111-46-6,0.5,0.48,0.43,0.48
+Diethylstilbestrol,56-53-1,0.5,0.74,0.73,0.9
+Diphenylhydantoin,57-41-0,0.5,0.58,0.61,0.71
+Domoic acid,14277-97-5,0.5,0.49,0.51,0.45
+Emamectin benzoate,155569-91-8,0.5,0.58,0.57,0.67
+Fipronil,120068-37-3,0.5,0.54,0.53,0.66
+Fluconazole,86386-73-4,0.5,0.49,0.43,0.49
+Fluoxetine,54910-89-3,0.5,0.73,0.72,0.93
+Flusilazole,85509-19-9,0.5,0.57,0.56,0.71
+Glyphosate,1071-83-6,0.5,0.38,0.35,0.23
+Haloperidol,52-86-8,0.5,0.68,0.68,0.89
+Heptachlor,76-44-8,0.51,0.72,0.67,0.91
+Heptachlor epoxide,1024-57-3,0.5,0.64,0.65,0.85
+Hexachlorophene,70-30-4,0.5,0.74,0.73,0.94
+Hydroxyurea,127-07-1,0.5,0.55,0.58,0.64
+Imidacloprid,138261-41-3,0.5,0.5,0.54,0.51
+Isoniazid,54-85-3,0.5,0.44,0.44,0.37
+Ketamine hydrochloride,33795-24-3,0.5,0.6,0.62,0.76
+Lactofen,77501-63-4,0.5,0.44,0.45,0.39
+Lead acetate trihydrate,6080-56-4 ,0.5,0.58,0.6,0.69
+Lindane,58-89-9,0.5,0.69,0.7,0.9
+Loperamide hydrochloride,34552-83-5 ,0.51,0.58,0.56,0.67
+Maneb,12427-38-2,0.5,0.59,0.61,0.73
+Manganese chloride,7773-01-5,0.5,0.48,0.48,0.54
+Methotrexate,59-05-2,0.5,0.51,0.5,0.44
+Methylchloroisothiazolinone,26172-55-4,0.5,0.53,0.52,0.63
+Methylmercury chloride,115-09-3,0.5,0.61,0.59,0.72
+Mevastatin,73573-88-3,0.5,0.67,0.66,0.87
+Naloxone hydrochloride dihydrate,51481-60-8,0.5,0.59,0.61,0.73
+Nicotine base,54-11-5,0.5,0.6,0.62,0.75
+Paraquat,4685-14-7,0.5,0.58,0.58,0.69
+PBDE-47,5436-43-1,0.5,0.71,0.71,0.92
+Permethrin,52645-53-1,0.5,0.62,0.63,0.81
+Phenobarbital sodium salt,57-30-7,0.5,0.61,0.58,0.76
+Phenol,108-95-2,0.51,0.51,0.44,0.54
+Propylthiouracil,51-52-5,0.5,0.55,0.53,0.64
+Saccharin sodium salt hydrate,82385-42-0,0.5,0.49,0.43,0.49
+Sodium arsenite,7784-46-5,0.5,0.62,0.61,0.75
+Sodium benzoate,532-32-1,0.5,0.5,0.44,0.52
+Sodium fluoride,7681-49-4,0.5,0.52,0.51,0.54
+Sodium orthovanadate,13721-39-6,0.5,0.57,0.59,0.66
+Spiroxamine,118134-30-8,0.5,0.55,0.54,0.67
+TBBPA,79-94-7,0.5,0.51,0.44,0.53
+TCEP,115-96-8,0.5,0.54,0.53,0.64
+TDCIPP,13674-87-8,0.5,0.53,0.53,0.64
+Tebuconazole,107534-96-3,0.5,0.62,0.63,0.82
+Terbutaline hemisulfate,23031-32-5,0.5,0.48,0.49,0.54
+Thalidomide,50-35-1,0.5,0.54,0.53,0.6
+Thiouracil,141-90-2,0.5,0.56,0.59,0.67
+TPHP,115-86-6,0.5,0.64,0.66,0.83
+trans-Retinoic acid,302-79-4,0.5,0.63,0.63,0.81
+Triethyltin bromide,2767-54-6,0.5,0.61,0.59,0.72
+Trimethyltin hydroxide,56-24-6,0.5,0.57,0.56,0.67
+Valproic acid sodium salt,1069-66-5 ,0.51,0.59,0.69,0.78
