@@ -61,7 +61,7 @@ X_syn_train = np.ma.masked_array(x_syn, mask=x_syn_missing)
 x_nnf_missing = np.isnan(x_nnf)
 X_nnf_train = np.ma.masked_array(x_nnf, mask=x_nnf_missing)
 
-# # --- Define and fit the model --- #
+# --- Define and fit the model --- #
 with pm.Model() as model_hierar:
     # Define hyperpriors
     mu_beta = pm.Normal('mu_beta', mu=0, sd=0.01)
@@ -108,7 +108,7 @@ with pm.Model() as model_hierar:
     lp_dnt = pm.Deterministic('lp_dnt', lp_bdnf + lp_syn + lp_nnf)
     y_obs_dnt = pm.Bernoulli('y_obs_dnt', logit_p=lp_dnt, observed=Y_dnt)
 
-# Checking the proposed structure of model
+# --- Checking the proposed structure of model --- #
 model_hierar.check_test_point()
 
 # --- Run inferences and compute posterior distributions --- #
