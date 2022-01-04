@@ -8,7 +8,7 @@ It can be run on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybind
 <img src="https://github.com/nicospinu/bayesian-dnt/blob/master/data/images/graph.jpg" width="700"/>
 
 ### The reference
-The manuscript is under review
+The publication on this work can be read here https://doi.org/10.1016/j.comtox.2021.100206
 
 ### Available video
 The results were initially presented at the [PyMCon2020 Conference](https://discourse.pymc.io/t/estimating-the-causal-network-of-developmental-neurotoxicants-using-pymc3-by-nicoleta-spinu/6027).
